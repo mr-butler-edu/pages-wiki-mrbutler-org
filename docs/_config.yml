@@ -28,9 +28,8 @@ domain: wiki.mrbutler.org
 github_username:  mr-butler-edu
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minimal-mistakes-jekyll
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
