@@ -28,7 +28,7 @@ domain: wiki.mrbutler.org
 github_username:  mr-butler-edu
 
 # Build settings
-theme: jekyll-cayman-theme
+theme: jekyll-cayman-theme-master
 plugins:
   - jekyll-feed
 
