@@ -1,5 +1,5 @@
 ---
-title: Chemistry Two - 2023
+title: Chemistry One - 2023
 permalink: /classes/2023/chemistry/one
 ---
 
