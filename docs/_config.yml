@@ -32,8 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-- static/classes.html
-- static/classes/2023/chemistry-one.md
+  - static/classes.html
+  - static/classes/2023/chemistry-one.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
