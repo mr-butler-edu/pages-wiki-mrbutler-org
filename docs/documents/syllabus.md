@@ -11,3 +11,7 @@ Testing
 | 0-2 | 3-4 | 5-6 | 7-8 | 9-10 |
 | --- | --- | --- | --- | ---- | 
 |great| good | ok | bad | take me to the hospital |
+
+
+
+![hello](../assets/images/classroom-banner-chemistry-one.png)
