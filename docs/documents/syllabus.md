@@ -7,10 +7,7 @@ permalink: /syllabus
 ## Heading
 Testing
 
-
-```cs
-public static class Foo 
-{
-    // nothing here
-}
-```
+### Example of pain
+| 0-2 | 3-4 | 5-6 | 7-8 | 9-10 |
+| --- | --- | --- | --- | ---- | 
+|great| good | ok | bad | take me to the hospital |
