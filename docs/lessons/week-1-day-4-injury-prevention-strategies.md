@@ -1,6 +1,7 @@
 ---
 title: Week 1 - Day 4 - Injury Prevention
 permalink: /lessons/week/1/day/4/injury-prevention
+---
 
 ### Week 1 - Introduction to Sports Medicine & Injury Prevention
 
